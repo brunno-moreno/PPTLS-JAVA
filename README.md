@@ -1,4 +1,4 @@
-<h1>Olá a todos! Sejam bem-vindos ao meu projeto de Pedra-Papel-Tesoura-Lagarto-Spock em JAVA</h1>
+<h1>Olá a todos! Sejam bem-vindos ao meu projeto JAVA</h1>
 
 <br>
 <h3>Para executar esse projeto você deve seguir poucos e simples passos listados a seguir:</h3>
